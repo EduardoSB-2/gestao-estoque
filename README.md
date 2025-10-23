@@ -51,6 +51,19 @@ Histórico de Movimentações: Registrar informações sobre cada movimentação
     - Tipo: NOSQL
     - Funcionalidades utilizadas: Schermas, validações e agregações
 
+- ### Linguagens Utilizadas
+    - TypeScript versão 5.0 ou superior
+    - Runtime: Node.js versão 18.0 ou superior
+    - Framework: Next.js versão 15.5.3     
+    - Bibliotecas principais:
+    bcrypt: 6.0.0 (criptografia de senhas)
+    jsonwebtoken: 9.0.2 (autenticação JWT)mongoose: 8.19.2 (ODM para MongoDB)react: 19.1.0 (interface do usuário)react-dom: 19.1.0 (renderização)5.1.3 
+    
+    ### Sistema Operacional
+    Windows 11 (desenvolvimento)
+    Compatibilidade: Windows 10+, Linux, macOS (produção)
+    Shell padrão: CMD (Command Prompt)
+
 - ### Pessoal
     - Dev Tudo
 
