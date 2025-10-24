@@ -14,29 +14,29 @@ O projeto consiste no desenvolvimento de um Sistema de Gestão de Estoque (SGE) 
 ### Requisitos Funcionais do Sistema de Gestão de Estoque (SGE)
 - Autenticação e Navegação
 
-Identificação do Usuário: Exibir o nome do usuário ativo na interface.
-Logout: Permitir que o usuário saia da conta, redirecionando-o para a tela de login.
-Acesso às Funcionalidades: Disponibilizar links para as seções de cadastro de produtos e gestão de estoque na interface principal.
+- Identificação do Usuário: Exibir o nome do usuário ativo na interface.
+- Logout: Permitir que o usuário saia da conta, redirecionando-o para a tela de login.
+- Acesso às Funcionalidades: Disponibilizar links para as seções de cadastro de produtos e gestão de estoque na interface principal.
 
 - Cadastro de Produtos
 
-Listagem de Produtos: Apresentar todos os produtos cadastrados em formato tabular.
-Busca de Produtos: Implementar campo de pesquisa por nome de produto.
-Cadastro de Novo Produto: Permitir inclusão de produtos com nome, descrição, quantidade inicial e quantidade mínima.
-Edição de Produto: Possibilitar a modificação dos dados de produtos existentes.
-Exclusão de Produto: Oferecer a opção de remoção de produtos do sistema.
-Validação de Dados: Garantir que campos obrigatórios sejam preenchidos e que os dados inseridos estejam no formato correto.
-Retorno à Tela Principal: Incluir botão para retorno à interface principal do sistema.
+- Listagem de Produtos: Apresentar todos os produtos cadastrados em formato tabular.
+- Busca de Produtos: Implementar campo de pesquisa por nome de produto.
+- Cadastro de Novo Produto: Permitir inclusão de produtos com nome, descrição, quantidade inicial e quantidade mínima.
+- Edição de Produto: Possibilitar a modificação dos dados de produtos existentes.
+- Exclusão de Produto: Oferecer a opção de remoção de produtos do sistema.
+- Validação de Dados: Garantir que campos obrigatórios sejam preenchidos e que os dados inseridos estejam no formato correto.
+- Retorno à Tela Principal: Incluir botão para retorno à interface principal do sistema.
 
 - Gestão de Estoque
 
-Ordenação Alfabética: Exibir os produtos em ordem alfabética.
-Seleção de Produto: Permitir que o usuário escolha um produto para movimentação.
-Tipo de Movimentação: Oferecer opções para registrar entrada ou saída de estoque.
-Data da Movimentação: Incluir campo para inserção da data da movimentação.
-Atualização Automática: Ajustar automaticamente a quantidade do produto após cada movimentação.
-Alerta de Estoque Mínimo: Emitir notificação quando a quantidade de um produto atingir o nível mínimo após saída.
-Histórico de Movimentações: Registrar informações sobre cada movimentação, incluindo responsável e data.
+- Ordenação Alfabética: Exibir os produtos em ordem alfabética.
+- Seleção de Produto: Permitir que o usuário escolha um produto para movimentação.
+- Tipo de Movimentação: Oferecer opções para registrar entrada ou saída de estoque.
+- Data da Movimentação: Incluir campo para inserção da data da movimentação.
+- Atualização Automática: Ajustar automaticamente a quantidade do produto após cada movimentação.
+- Alerta de Estoque Mínimo: Emitir notificação quando a quantidade de um produto atingir o nível mínimo após saída.
+- Histórico de Movimentações: Registrar informações sobre cada movimentação, incluindo responsável e data.
 
 ## Recursos do Projeto
 - ### Tecnológicos
