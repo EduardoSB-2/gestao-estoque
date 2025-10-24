@@ -114,7 +114,7 @@ classDiagram
 
 2.  Exemplos do Banco de Dados
 ### Criar usuários de exemplo
-db.usuarios.insertMany([
+db.usuarios([
   {
     nome: "Pedro Souza",
     email: "pedrinho@empresa.com",
@@ -125,7 +125,7 @@ db.usuarios.insertMany([
 ]);
 
 ### Criar produtos de exemplo
-db.produtos.insertMany([
+db.produtos([
   {
     nome: "Machado",
     descricao: "Martelo profissional com cabeça de aço carbono e cabo de madeira",
@@ -135,7 +135,7 @@ db.produtos.insertMany([
 ]);
 
 // Criar movimentações de exemplo
-db.movimentacoes.insertMany([
+db.movimentacoes([
   {
     produtoId: ObjectId("produto_id_1"),
     tipo: "Entrada",
