@@ -12,13 +12,13 @@ O projeto consiste no desenvolvimento de um Sistema de Gestão de Estoque (SGE) 
 
 ## Requisitos Funcionais
 ### Requisitos Funcionais do Sistema de Gestão de Estoque (SGE)
-- Autenticação e Navegação
+- ### Autenticação e Navegação
 
 - Identificação do Usuário: Exibir o nome do usuário ativo na interface.
 - Logout: Permitir que o usuário saia da conta, redirecionando-o para a tela de login.
 - Acesso às Funcionalidades: Disponibilizar links para as seções de cadastro de produtos e gestão de estoque na interface principal.
 
-- Cadastro de Produtos
+- ### Cadastro de Produtos
 
 - Listagem de Produtos: Apresentar todos os produtos cadastrados em formato tabular.
 - Busca de Produtos: Implementar campo de pesquisa por nome de produto.
@@ -28,7 +28,7 @@ O projeto consiste no desenvolvimento de um Sistema de Gestão de Estoque (SGE) 
 - Validação de Dados: Garantir que campos obrigatórios sejam preenchidos e que os dados inseridos estejam no formato correto.
 - Retorno à Tela Principal: Incluir botão para retorno à interface principal do sistema.
 
-- Gestão de Estoque
+- ### Gestão de Estoque
 
 - Ordenação Alfabética: Exibir os produtos em ordem alfabética.
 - Seleção de Produto: Permitir que o usuário escolha um produto para movimentação.
